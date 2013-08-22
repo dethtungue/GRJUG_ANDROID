@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Little League Roster</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_player">New Player</string>
+    <string name="save_player">Save Player</string>
+    <string name="playerFNameHint">Player First Name</string>
+    
+</resources>
